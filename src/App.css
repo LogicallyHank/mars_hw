@@ -1,6 +1,18 @@
 .App {
   text-align: center;
-  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Apple-Space-Wallpapers-HD.jpg");
+}
+
+body{
+ background-image:url("https://i.imgur.com/KE5440G.jpg");
+ background-size: 100%;
+}
+
+h1{
+  color: white;
+}
+
+label{
+  color: white;
 }
 
 .cart {
